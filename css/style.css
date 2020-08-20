@@ -16,6 +16,7 @@ h2 {
 .completed {
   font-family: Tahoma;
   font-size: 12px;
+  background: #ccc;
 }
 
 #tasks .completed {
